@@ -24,12 +24,12 @@ reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "‹ لتنصيب بوت ›", url=f"https://t.me/IC_19"),
+                        "‹ لتنصيب بوت ›", url=f"https://t.me/Syri20"),
                 ],[
                     
                 
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/EF_19"),         
+                        "‹ السورس ›", url=f"https://t.me/SYS90k"),         
                 ],
 
             ]
